@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test_lenar_01</string>
+    <string name="main_activity_title">InstaApp 2021/2022</string>
+    <string name="main_activity_account_option_name">konto</string>
+    <string name="main_activity_search_option_name">szukaj</string>
+    <string name="main_activity_create_option_name">utwórz</string>
+    <string name="main_activity_roll_option_name">rolka</string>
+
+</resources>
