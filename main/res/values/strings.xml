@@ -5,5 +5,14 @@
     <string name="main_activity_search_option_name">szukaj</string>
     <string name="main_activity_create_option_name">utwórz</string>
     <string name="main_activity_roll_option_name">rolka</string>
+    
+<!--    menu-->
+    <string name="menu_first_option">pierwsza opcja</string>
+    <string name="menu_second_option">druga opcja</string>
 
+<!--    account activity-->
+    <string name="account_activity_edit_profile_text">Edytuj profil</string>
+    <string name="account_activity_consequence_of_lack_of_camera_permission">Bez tego uprawnienia nie można wykonać zdjęcia</string>
+<!--    komunikaty niepowodzeń-->
+    <string name="permission_not_granted">Uprawnienie nie zostało nadane</string>
 </resources>
