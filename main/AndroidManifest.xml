@@ -12,19 +12,22 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Test_lenar_01">
         <activity
-            android:name=".RollActivity"
+            android:name=".activities.EditProfileActivity"
             android:exported="true" />
         <activity
-            android:name=".CreateActivity"
+            android:name=".activities.RollActivity"
             android:exported="true" />
         <activity
-            android:name=".SearchActivity"
+            android:name=".activities.CreateActivity"
             android:exported="true" />
         <activity
-            android:name=".AccountActivity"
+            android:name=".activities.SearchActivity"
             android:exported="true" />
         <activity
-            android:name=".MainActivity"
+            android:name=".activities.AccountActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activities.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
